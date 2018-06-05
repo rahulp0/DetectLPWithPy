@@ -1,0 +1,10 @@
+
+
+#!/bin/bash
+echo "**********Welcome to the License Plate Detection and Recognition System***************"
+echo ""
+cd /home/rahul/miniproject/mainfunction/videoconvertor
+python videoconvert.py
+echo ""
+echo "**********The End***************"
+
